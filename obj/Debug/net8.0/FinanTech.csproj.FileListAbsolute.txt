@@ -1,0 +1,15 @@
+C:\Users\PC\Documents\Git\FinanTech\bin\Debug\net8.0\FinanTech.exe
+C:\Users\PC\Documents\Git\FinanTech\bin\Debug\net8.0\FinanTech.deps.json
+C:\Users\PC\Documents\Git\FinanTech\bin\Debug\net8.0\FinanTech.runtimeconfig.json
+C:\Users\PC\Documents\Git\FinanTech\bin\Debug\net8.0\FinanTech.dll
+C:\Users\PC\Documents\Git\FinanTech\bin\Debug\net8.0\FinanTech.pdb
+C:\Users\PC\Documents\Git\FinanTech\obj\Debug\net8.0\FinanTech.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\PC\Documents\Git\FinanTech\obj\Debug\net8.0\FinanTech.AssemblyInfoInputs.cache
+C:\Users\PC\Documents\Git\FinanTech\obj\Debug\net8.0\FinanTech.AssemblyInfo.cs
+C:\Users\PC\Documents\Git\FinanTech\obj\Debug\net8.0\FinanTech.csproj.CoreCompileInputs.cache
+C:\Users\PC\Documents\Git\FinanTech\obj\Debug\net8.0\FinanTech.sourcelink.json
+C:\Users\PC\Documents\Git\FinanTech\obj\Debug\net8.0\FinanTech.dll
+C:\Users\PC\Documents\Git\FinanTech\obj\Debug\net8.0\refint\FinanTech.dll
+C:\Users\PC\Documents\Git\FinanTech\obj\Debug\net8.0\FinanTech.pdb
+C:\Users\PC\Documents\Git\FinanTech\obj\Debug\net8.0\FinanTech.genruntimeconfig.cache
+C:\Users\PC\Documents\Git\FinanTech\obj\Debug\net8.0\ref\FinanTech.dll
