@@ -7,6 +7,6 @@ public class ApiDeliveryStrategy : IReportDeliveryStrategy
 {
     public void Deliver(Report report)
     {
-        Console.WriteLine($"Enviando reporte por API: [{report}]");
+        Console.WriteLine($"Enviando reporte por API => {report}");
     }
 }

@@ -7,6 +7,6 @@ public class EmailDeliveryStrategy : IReportDeliveryStrategy
 {
     public void Deliver(Report report)
     {
-        Console.WriteLine($"Enviando reporte por correo: [{report}]");
+        Console.WriteLine($"Enviando reporte por correo => {report}");
     }
 }

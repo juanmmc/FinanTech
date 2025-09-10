@@ -38,6 +38,6 @@ public class ReportDirector
         _builder.Reset();
         _builder.SetTitle(title);
         _builder.SetContent(content);
-        _builder.SetProcessingLevel($"Encriptado (clave: {key})");
+        _builder.SetProcessingLevel($"Encriptado con clave: {key}");
     }
 }
