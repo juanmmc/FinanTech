@@ -13,7 +13,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("FinanTech")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+44b9f1e5775cffe691fa3fc5a8951ba2a59b4e3e")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+5d3b2e8aef0f736020b90737d36a40af627e351b")]
 [assembly: System.Reflection.AssemblyProductAttribute("FinanTech")]
 [assembly: System.Reflection.AssemblyTitleAttribute("FinanTech")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]

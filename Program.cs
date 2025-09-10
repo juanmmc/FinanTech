@@ -14,8 +14,6 @@ public class Program
         var director = new ReportDirector(pdfBuilder);
         director.ConstructBasicReport("Reporte Ejecutivo", "Contenido de reporte ejecutivo");
         var pdfReport = pdfBuilder.Build();
-        Console.WriteLine(pdfReport);
-
         var emailDeliveryStrategy = new EmailDeliveryStrategy();
         emailDeliveryStrategy.Deliver(pdfReport);
         Console.WriteLine(Environment.NewLine);
@@ -26,8 +24,6 @@ public class Program
         director = new ReportDirector(excelBuilder);
         director.ConstructDetailedReport("Reporte Auditor", "Contenido de reporte auditor", "John Cena", DateTime.Now);
         var excelReport = excelBuilder.Build();
-        Console.WriteLine(excelReport);
-
         var sharedFolderDeliveryStrategy = new SharedFolderDeliveryStrategy();
         sharedFolderDeliveryStrategy.Deliver(excelReport);
         Console.WriteLine(Environment.NewLine);
@@ -38,8 +34,6 @@ public class Program
         director = new ReportDirector(csvBuilder);
         director.ConstructEncryptedReport("Reporte Analista", "Contenido de reporte analista", "asdlkj123");
         var csvReport = csvBuilder.Build();
-        Console.WriteLine(csvReport);
-
         var apiDeliveryStrategy = new ApiDeliveryStrategy();
         apiDeliveryStrategy.Deliver(csvReport);
     }
