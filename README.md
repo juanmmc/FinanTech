@@ -17,4 +17,4 @@ El patrón Decorator permite agregar funcionalidades opcionales a los reportes (
 
 ## Repositorio del proyecto
 
-El código fuente de este proyecto está disponible en GitHub: FinanTech [https://github.com/juanmmc/FinanTech](https://github.com/juanmmc/FinanTech)
+El código fuente de este proyecto está disponible en GitHub: [https://github.com/juanmmc/FinanTech](https://github.com/juanmmc/FinanTech)
