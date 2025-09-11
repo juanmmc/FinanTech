@@ -8,6 +8,8 @@ public class Program
 {
     static void Main(string[] args)
     {
+        // Ejemplos de uso para generar reportes PDF, Excel y CSV con diferentes estrategias de procesamiento, decoradores y métodos de entrega
+
         // PDF
         Console.WriteLine("*** PDF");
         // Estrategia de procesamiento para ejecutivos
